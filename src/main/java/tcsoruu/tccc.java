@@ -10,7 +10,7 @@ public class tccc {
         System.out.println("lütfen tc gir");
         String tc = scan.next();
 
-
+//String le ikinci kısmı yapılabilir
 
         for (int i = 0; i <= tc.length(); i++) {
             char c = tc.charAt(i);
