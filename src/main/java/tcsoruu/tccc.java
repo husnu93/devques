@@ -6,6 +6,12 @@ public class tccc {
     public static void main(String[] args) {
 
 
+
+
+
+
+        
+
         Scanner scan = new Scanner(System.in);
         System.out.println("lütfen tc gir");
         String tc = scan.next();
