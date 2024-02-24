@@ -10,8 +10,6 @@ public class tccc {
 
 
 
-        
-
         Scanner scan = new Scanner(System.in);
         System.out.println("lütfen tc gir");
         String tc = scan.next();
